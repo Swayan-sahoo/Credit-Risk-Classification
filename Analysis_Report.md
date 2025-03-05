@@ -4,7 +4,7 @@
 ## Overview
 
 This analysis aims to assess the credit risk of loan applicants using a logistic regression model. The model is trained to classify loans as either healthy (0) or high-risk (1) based on historical lending data. By evaluating the performance of the model, we determine whether it is suitable for predicting credit risk and making informed lending decisions.
-## Sumary:
+## Summary:
 ## Step 1: Data Preparation
 A. We need to import some important libreries such as numpy,pandas,pathlib and from sklearn.metrics import confusion_metrix , classification_report.
 
