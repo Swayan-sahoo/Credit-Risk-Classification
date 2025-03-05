@@ -1,5 +1,5 @@
 # Credit-Risk-Classification
-## Credit Risk Analysis
+## Credit Risk Analysis Report
 
 ## Overview
 
